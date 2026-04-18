@@ -1,6 +1,3 @@
-cleaned dataset
-
-
 "age","gender","primary_diagnosi","num_procedures","days_in_hospital","comorbidity_scor","discharge_to","readmitted","risk_score","risk_level"
 "69","Male","Heart Disease","1","2","1","Home Health Care","0","4","Low Risk"
 "32","Female","COPD","2","13","2","Rehabilitation Facility","0","17","High Risk"
