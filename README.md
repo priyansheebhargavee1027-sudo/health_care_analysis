@@ -21,7 +21,7 @@ This project analyzes patient data to identify patterns in risk levels and hospi
 
 ##  Files
 
-* Tableau Dashboard: dashboard/tableau_dashboard.twbx
+* Tableau Dashboard: dashboard/healthcare_dashborad.twbx
 
 ##  How to Use
 
