@@ -17,7 +17,7 @@ This project analyzes patient data to identify patterns in risk levels and hospi
 
 ##  Dashboard Preview
 
-![Dashboard](images:dashboard.png)
+![Dashboard](dashboard.png)
 
 ##  Files
 
